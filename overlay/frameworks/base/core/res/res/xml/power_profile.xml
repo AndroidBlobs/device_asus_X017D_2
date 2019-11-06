@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="battery.capacity">3300</item>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+        <value>4</value>
+    </array>
+    <item name="cpu.suspend">3.3</item>
+    <item name="cpu.idle">4.2</item>
+    <array name="cpu.core_speeds.cluster0">
+        <value>633000</value>
+        <value>902000</value>
+        <value>1113000</value>
+        <value>1401000</value>
+        <value>1536000</value>
+        <value>1747000</value>
+        <value>1843000</value>
+    </array>
+    <array name="cpu.core_speeds.cluster1">
+        <value>1113000</value>
+        <value>1401000</value>
+        <value>1747000</value>
+        <value>1958000</value>
+        <value>2150000</value>
+    </array>
+    <array name="cpu.core_power.cluster0">
+        <value>34</value>
+        <value>60</value>
+        <value>85</value>
+        <value>128</value>
+        <value>163</value>
+        <value>202</value>
+        <value>253</value>
+    </array>
+    <array name="cpu.core_power.cluster1">
+        <value>226</value>
+        <value>331</value>
+        <value>497</value>
+        <value>614</value>
+        <value>777</value>
+    </array>
+    <item name="screen.on">63</item>
+    <item name="screen.full">261</item>
+    <item name="camera.flashlight">95</item>
+    <item name="camera.avg">450</item>
+    <item name="video">73</item>
+    <item name="audio">35</item>
+    <item name="wifi.controller.idle">5.8</item>
+    <item name="wifi.controller.rx">116</item>
+    <item name="wifi.controller.tx">150</item>
+    <item name="wifi.controller.voltage">0</item>
+    <item name="modem.controller.sleep">0</item>
+    <item name="modem.controller.idle">8</item>
+    <item name="modem.controller.rx">113</item>
+    <item name="modem.controller.tx">120</item>
+    <item name="modem.controller.voltage">0</item>
+    <array name="gps.signalqualitybased">
+        <value>32</value>
+        <value>7</value>
+    </array>
+    <item name="gps.voltage">0</item>
+    <item name="bluetooth.controller.idle">0.41</item>
+    <item name="bluetooth.controller.rx">9</item>
+    <item name="bluetooth.controller.tx">7</item>
+    <item name="bluetooth.controller.voltage">0</item>
+</device>
